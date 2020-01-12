@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "خبر ١",
+    "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+  },
+  {
+    "id": 2,
+    "title": "زيارة السيسي للإمارات",
+    "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "title": "فوز المنتخب",
+    "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+  },
+  {
+    "id": 4,
+    "title": "مباراة الأهلي",
+    "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+  },
+  {
+    "id": 5,
+    "title": "ارتفاع سعر الدولار",
+    "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+  }
+]
