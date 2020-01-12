@@ -1,0 +1,45 @@
+{
+  "news-list": [
+    {
+      "id": 1,
+      "title": "خبر ١",
+      "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "title": "زيارة السيسي للإمارات",
+      "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "فوز المنتخب",
+      "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "مباراة الأهلي",
+      "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "title": "ارتفاع سعر الدولار",
+      "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg"
+    }
+  ],
+  "news-item": {
+    "id": 5,
+    "title": "ارتفاع سعر الدولار",
+    "imageUrl": "https://i.ytimg.com/vi/Jzmtz1gbSmg/maxresdefault.jpg",
+    "desc": "أعلنت كيميا علي زاده لاعبة رياضة التايكوندو الحائزة على الميدالية البرونزية الأولمبية الوحيدة في إيران، أنها غادرت البلاد بشكل دائم إلى أوروبا.",
+    "comments": [
+      {
+        "userName": "محمود الشامي",
+        "details": "خبر رائع"
+      },
+      {
+        "userName": "ايمان المعداوي",
+        "details": "خبر سيئ جدااا"
+      }
+    ]
+  }
+}
